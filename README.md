@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ram Tokens (RAMT)
+ Ram Tokens is a premiere decentralized smart network on TRON (TRC 20) 👋
 
 <!--
 **RAMTOKENS/RAMTOKENS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
